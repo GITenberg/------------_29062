@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6012
     wikipedia: http://en.wikipedia.org/wiki/Demetrius_Vikelas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29062#------------
 gutenberg_issued: '2009-06-07'
 gutenberg_type: Text
 identifiers:
